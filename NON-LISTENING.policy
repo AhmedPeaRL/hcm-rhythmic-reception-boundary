@@ -1,0 +1,12 @@
+RULE: Listening is forbidden.
+
+
+Forbidden mechanisms:
+- Sockets
+- Webhooks
+- Queues
+- Subscribers
+- Message buses
+
+
+Any of the above introduces intent.
